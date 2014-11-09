@@ -1,0 +1,7 @@
+This Application was made using GameMaker. GameMaker is the intellectual property of YoYo Games Ltd, a company of the United Kingdom.
+
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+
+General
+-------
+This game was made in two days for a hackathon. Enjoy it however you like - we won't judge you (too much).
